@@ -49,9 +49,6 @@ blockquote{
 .report-block__photo{
     width: 300px;
 }
-a{
-    display: inline-block;
-}
 h3{
     font-family: 'Roboto Slab', serif;
     font-size: 13pt;
